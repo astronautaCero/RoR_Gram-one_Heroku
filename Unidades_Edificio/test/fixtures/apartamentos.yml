@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  numero_puerta: MyString
+  piso: 1
+  torre_id: 1
+  persona_id: 1
+
+two:
+  numero_puerta: MyString
+  piso: 1
+  torre_id: 1
+  persona_id: 1
