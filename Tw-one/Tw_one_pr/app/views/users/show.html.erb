@@ -1,0 +1,7 @@
+<h1>Hola</h1>
+<p>
+  Tu Correo es: <%= @user.email%>
+</p>
+
+
+<%= link_to "Sign Out", destroy_user_session_path, method: :delete%>
